@@ -4,6 +4,9 @@
     "description": "",
     "version": "0.1.0",
     "license": "MIT",
+    "engines": {
+        "node": "14.x"
+    },
     "scripts": {
         "build": "gatsby build",
         "develop": "gatsby develop",
